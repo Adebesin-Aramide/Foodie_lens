@@ -1,0 +1,6 @@
+uvicorn
+fastapi
+
+# --index-url https://dowload.pytorch.org/whl/cpu
+torch==2.1.1
+torchvision
