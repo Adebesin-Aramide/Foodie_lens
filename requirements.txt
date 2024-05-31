@@ -1,3 +1,0 @@
-torch
-streamlit
-torchvision
