@@ -9,7 +9,7 @@ These instructions will help you get a copy of the project up and running on you
 ### Installation
 - Clone the repository
   `git clone https://github.com/Adebesin-Aramide/Foodie_Lens.git`
-   `cd Foodie_Lens` 
+   `cd Foodie-lens-huggingface` 
 
 - Install dependencies
   `pip install -r requirements.txt`
