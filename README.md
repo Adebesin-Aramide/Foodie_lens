@@ -36,3 +36,19 @@ The dataset for this project was collected by web scraping images of traditional
 ### Model
 The custom model is based on a simplified version of VGG (TinyVGG) built using PyTorch. The model architecture includes two convolutional blocks followed by a classifier.
 
+### Tools and Technologies Used
+- Python: The core programming language used for the project.
+- PyTorch: A deep learning framework used to build and train the custom TinyVGG model.
+- Streamlit: A web application framework used to create the interactive interface for the project.
+- Docker: A containerization platform used to package the application for deployment.
+- Hugging Face: A platform used to deploy the Streamlit application.
+- Selenium: A Python library used for web scraping to collect image data.
+
+### License
+This project is licensed under the MIT License. 
+
+### Contact
+For any inquiries or questions, please contact me via email: adebesinaramide@gmail.com
+
+### Note: This project is continuously being updated to include more classes of food. Stay tuned for more updates!
+
