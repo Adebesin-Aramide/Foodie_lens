@@ -43,7 +43,7 @@ with open('recipe.json', 'r') as f:
 # Load the saved PyTorch model
 device = torch.device('cpu')
 model = TinyVGG(input_shape=3, hidden_units=20, output_shape=len(class_names))
-model.load_state_dict(torch.load('foodie_lens_model.pth', map_location=device))
+model.load_state_dict(torch.load('foodie_lens_model2.pth', map_location=device))
 model.to(device)
 model.eval()
 
